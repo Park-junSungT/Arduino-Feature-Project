@@ -1,2 +1,2 @@
 # Arduino-Feature-Project
-I want to go home
+방학 = 학교 노예
