@@ -38,7 +38,7 @@ float SensorManager::wtf(float plsreadbook[], int cnt) {
 
   return near;
 }
-c:\SmartCane\Controller.cpp
+
 void SensorManager::getDist() {
   eeee[0] = rrrr(TRIG_PINS[0], ECHO_PINS[0]);
   delayMicroseconds(GAP);

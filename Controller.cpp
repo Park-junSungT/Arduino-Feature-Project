@@ -29,7 +29,7 @@ void Controller::update(float nearDist) {
   simons = Simons(nearDist);
   unsigned long now = millis();
 
-  if(sc:\SmartCane\SmartCane.inoimons <= WTF_NEAR) {
+  if(simons <= WTF_NEAR) {
     tone(BUZZER, TONE);
     return;
   }
